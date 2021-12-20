@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Roman Bednarik
   pic: 4
-  position: Lead Designer
+  position: University of Eastern Finland
   social:
     - title: twitter
       url: #
@@ -22,7 +22,7 @@ people:
 
 - name: Ann Blandford
   pic: 4
-  position: Lead Marketer
+  position: University College London
   social:
     - title: twitter
       url: #
@@ -33,7 +33,7 @@ people:
 
 - name: Feng Feng
   pic: 4
-  position: Lead Developer
+  position: University of Eastern Finland
   social:
     - title: twitter
       url: #
@@ -44,7 +44,7 @@ people:
 
 - name: Antti Huotarinen
   pic: 4
-  position: Lead Developer
+  position: Kuopio University Hospital
   social:
     - title: twitter
       url: #
@@ -55,7 +55,7 @@ people:
 
 - name: Matti Iso-Mustajärivi
   pic: 4
-  position: Lead Developer
+  position: Kuopio University Hospital
   social:
     - title: twitter
       url: #
@@ -66,7 +66,7 @@ people:
 
 - name: Ahreum Lee
   pic: 4
-  position: Lead Developer
+  position: University of Eastern Finland
   social:
     - title: twitter
       url: #
@@ -77,7 +77,7 @@ people:
 
 - name: Federico Nicolosi
   pic: 4
-  position: Lead Developer
+  position: UpsurgeOn
   social:
     - title: twitter
       url: #
@@ -88,7 +88,7 @@ people:
 
 - name: Jeremy Opie
   pic: 4
-  position: Lead Developer
+  position: University College London
   social:
     - title: twitter
       url: #
@@ -99,7 +99,7 @@ people:
 
 - name: Soojeong Yoo
   pic: 4
-  position: Lead Developer
+  position: University College London
   social:
     - title: twitter
       url: #
@@ -110,7 +110,7 @@ people:
 
 - name: Bin Zheng
   pic: 4
-  position: Lead Developer
+  position: University of Alberta
   social:
     - title: twitter
       url: #
