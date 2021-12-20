@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Roman Bednarik
-  pic: 1
+  pic: 4
   position: Lead Designer
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Ann Blandford
-  pic: 2
+  pic: 4
   position: Lead Marketer
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: #
 
 - name: Feng Feng
-  pic: 3
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
@@ -43,7 +43,7 @@ people:
       url: #
 
 - name: Antti Huotarinen
-  pic: 3
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
@@ -54,7 +54,7 @@ people:
       url: #
 
 - name: Matti Iso-Mustajärivi
-  pic: 3
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
@@ -65,7 +65,7 @@ people:
       url: #
 
 - name: Ahreum Lee
-  pic: 3
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
@@ -76,7 +76,7 @@ people:
       url: #
 
 - name: Federico Nicolosi
-  pic: 3
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
@@ -87,7 +87,7 @@ people:
       url: #
 
 - name: Jeremy Opie
-  pic: 3
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
@@ -98,7 +98,7 @@ people:
       url: #
 
 - name: Soojeong Yoo
-  pic: 3
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
@@ -109,7 +109,7 @@ people:
       url: #
 
 - name: Bin Zheng
-  pic: 3
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
