@@ -13,130 +13,79 @@ people:
 - name: Roman Bednarik
   pic: 1
   position: University of Eastern Finland
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  # social:
 
 - name: Ann Blandford
   pic: 2
   position: University College London
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url:  http://twitter.com/annblandford
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/ann-blandford-01586a2/?originalSubdomain=uk
 
 - name: Feng Feng
   pic: 3
   position: University of Eastern Finland
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: http://twitter.com/Feng58486062
+    - title: linkedin
+      url: https://www.linkedin.com/in/feng-feng-308054146/
+    - title: user
+      url: https://fengxiwu.org/
 
 - name: Antti Huotarinen
   pic: 4
   position: Kuopio University Hospital
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  # social:
 
 - name: Matti Iso-Mustajärivi
   pic: 5
   position: Kuopio University Hospital
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  # social:
 
 - name: Ahreum Lee
   pic: 6
   position: University of Eastern Finland
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/ahreum/
+    - title: user
+      url: ahreumlee.me
 
 - name: Federico Nicolosi
   pic: 7
   position: UpsurgeOn
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  # social:
 
 - name: Jeremy Opie
   pic: 8
   position: University College London
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/jeremy-opie-6a27a096/
 
 - name: Soojeong Yoo
   pic: 9
   position: University College London
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/soojeong-yoo-81b59784/
 
 - name: Bin Zheng
   pic: 10
   position: University of Alberta
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: user
+      url: https://www.ualberta.ca/medicine/about/people/details.html?n=bin-zheng
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Science Park
+  - line: Joensuu, 80110
 
 # Build settings
 markdown: kramdown
