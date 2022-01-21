@@ -13,7 +13,9 @@ people:
 - name: Roman Bednarik
   pic: 1
   position: University of Eastern Finland
-  # social:
+  social:
+    - title: twitter
+      url:  http://twitter.com/RomanBednarik
 
 - name: Ann Blandford
   pic: 2
@@ -51,13 +53,17 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/ahreum/
+    - title: twitter
+      url: http://twitter.com/l_ahreum
     - title: user
       url: ahreumlee.me
 
 - name: Federico Nicolosi
   pic: 7
   position: UpsurgeOn
-  # social:
+  social:
+  - title: twitter
+      url: http://twitter.com/fednicolosi
 
 - name: Jeremy Opie
   pic: 8
@@ -72,6 +78,8 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/soojeong-yoo-81b59784/
+    - title: twitter
+      url: http://twitter.com/YooSoojeong
 
 - name: Bin Zheng
   pic: 10
