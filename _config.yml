@@ -62,7 +62,7 @@ people:
   pic: 7
   position: UpsurgeOn
   social:
-  - title: twitter
+    - title: twitter
       url: http://twitter.com/fednicolosi
 
 - name: Jeremy Opie
