@@ -1,0 +1,15 @@
+---
+title: Hani Marcus
+subtitle: Keynote speaker
+layout: default
+modal-id: 2
+date: 2022-4-2
+img: HaniMarcus.png
+thumbnail: HaniMarcus.png
+alt: image-alt
+project-date: Dec 2021
+client: CHI, surgical technology and digital health communities
+category: CHI 2022
+description: TBU
+
+---

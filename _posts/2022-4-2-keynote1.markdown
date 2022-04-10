@@ -1,0 +1,15 @@
+---
+title: Dr Talya Porat
+subtitle: Keynote speaker
+layout: default
+modal-id: 1
+date: 2022-4-2
+img: TalyaPorat.png
+thumbnail: TalyaPorat.png
+alt: image-alt
+project-date: Dec 2021
+client: CHI, surgical technology and digital health communities
+category: CHI 2022
+description: Dr Talya Porat is a Lecturer at the Dyson School of Design Engineering, Imperial College London. Her research is in the domains of Human Factors, Human-Computer Interaction and Cognitive Engineering in healthcare, with special interest in the design of novel digital interventions to facilitate decision making and behaviour change to improve patient outcomes. She has extensive experience in engaging various stakeholders from different domains (healthcare professionals, patients, engineers, policy makers, designers) in a collaborative design process.
+
+---
