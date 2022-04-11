@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Dec 2021
 client: CHI, surgical technology and digital health communities
 category: CHI 2022
-description: TBU
+description: Mr Marcus is an academic consultant neurosurgeon, and was among the first cohort of trainees to be selected for a Walport Integrated Academic Training Pathway, with rotations at the University of Cambridge, Imperial College London, and University College London.
 
 ---
